@@ -6,7 +6,7 @@ print(type(name))
 print(type(36))
 print(type(98.98))
 print(type(True))
-age = 23
+age = 24
 print("I am", age)
 salary = 124000
 print(f"My name is {name}. I am {age} years old. I earn KES {salary} per momth")
