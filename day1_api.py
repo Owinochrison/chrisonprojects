@@ -1,7 +1,8 @@
 import requests
 
+#CODE CANNOT RUN DUE TO THE HIDDEN API KEY. PLEASE ADD YOUR API KEY TO THE HEADERS BELOW.
 url = "https://api.restcountries.com/countries/v5?q=kenya"
-headers = {"Authorization": "Bearer rc_live_67ddb75cea1c44fd95aad2d14d39c525"}
+headers = {"Authorization": "Bearer YOUR_API_KEY"}
 
 response = requests.get(url, headers=headers)
 
