@@ -15,7 +15,7 @@ browser-coach: Client-side AI coaching tool in JavaScript
 Stack
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
 
-PROJECTS
+**PROJECTS**
 
 SMP Tracker
 
